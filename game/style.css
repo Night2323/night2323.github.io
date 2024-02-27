@@ -5,3 +5,7 @@ body{
     background-position: center center;
     background-attachment: fixed;
 }
+
+html{
+    background-color: black;
+}
