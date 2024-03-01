@@ -4,19 +4,15 @@ body{
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
+    text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
 }
 
 html{
     background-color: black;
 }
 
-.carousel-item{
-    position: relative;
-    height: 100%;
-}
-
-.carousel-item img{
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%)
+p{
+    text-shadow: 1px 0 #fff, -1px 0 #fff, 0 1px #fff, 0 -1px #fff,
+0.5px 0.5px #fff, -0.5px -0.5px #fff, 0.5px -0.5px #fff, -0.5px 0.5px #fff;
 }
