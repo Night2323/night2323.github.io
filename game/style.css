@@ -9,3 +9,14 @@ body{
 html{
     background-color: black;
 }
+
+.carousel-item{
+    position: relative;
+    height: 100%;
+}
+
+.carousel-item img{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%)
+}
