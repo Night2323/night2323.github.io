@@ -1,9 +1,9 @@
 body{
-    background-image: url(bg.jpg);
+    background-image: url(wallpapersden.com_war-thunder-2017_4464x4217.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
+    /*background-position: center center;*/
+    background-attachment:scroll;
     text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
 1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
 }
