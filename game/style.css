@@ -13,6 +13,5 @@ html{
 }
 
 p{
-    text-shadow: 1px 0 #fff, -1px 0 #fff, 0 1px #fff, 0 -1px #fff,
-0.5px 0.5px #fff, -0.5px -0.5px #fff, 0.5px -0.5px #fff, -0.5px 0.5px #fff;
+    text-shadow: 0.5px 0 #fff, -0.5px 0 #fff, 0 0.5px #fff, 0 -0.5px #fff,0.25px 0.25px #fff, -0.25px -0.25px #fff, 0.25px -0.25px #fff, -0.25px 0.25px #fff;
 }
