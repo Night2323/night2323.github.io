@@ -17,3 +17,7 @@ p{
 0.5px 0.5px #fff, -0.5px -0.5px #fff, 0.5px -0.5px #fff, -0.5px 0.5px #fff;
 font-size: 20px;
 }
+
+a{
+    text-decoration: none;
+}
