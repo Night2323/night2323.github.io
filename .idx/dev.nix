@@ -22,6 +22,9 @@
       "ritwickdey.LiveServer"
       "ms-python.debugpy"
       "ms-python.python"
+      "formulahendry.vscode-mysql"
+      "BeardedBear.beardedtheme"
+      "esbenp.prettier-vscode"
     ];
 
     # Enable previews
