@@ -1,0 +1,8 @@
+Nev;Kedvezmény;TorzsUtKartya;UtazasokSzama;Életkor
+Kovács Elemérné;0;VAN;23;45
+Szabó Alexandra;0;NINCS;12;16
+Tóth István;0;NINCS;33;37
+Tóth Istvánné;0;VAN;28;35
+5agy Krisztina;0;NINCS;65;25
+Juhász Béla;0;NINCS;8;66
+Kiss Rozália;0;VAN;69;78

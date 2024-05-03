@@ -1,0 +1,16 @@
+UjsagAzon	UjsagNev	Ar	RendeltMenny	EladottMenny	Napilap
+1	IPM magazin	750	40	29	0
+2	Népszabadság	128	80	74	1
+3	Magyar Hírlap	138	60	44	1
+4	Blikk	68	100	100	1
+5	Kiskegyed	139	30	25	0
+6	Garfield	465	21	21	0
+7	FHM	495	30	30	0
+8	Linuxvilág	695	25	20	0
+9	Autó2	229	23	15	0
+10	Népszava	106	70	50	1
+11	Story	169	24	20	0
+12	Kisalföld	99	95	90	1
+13	HVG	249	30	14	0
+14	PC World	1896	25	13	0
+15	Világjáró magazin	395	40	12	0

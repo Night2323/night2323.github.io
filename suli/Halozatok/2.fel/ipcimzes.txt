@@ -1,0 +1,22 @@
+Példa LAN (200 IP-cím igény)
+	hálózat azonosító: 172.16.0.0/24
+	alhálózati maszk: 255.255.255.0
+	használható címtartomány: 172.16.0.1 - 172.16.0.254
+	szórási cím: 172.16.0.255
+
+
+1. VENDEG (120 IP-cím igény)
+	hálózat azonosító:192.168.92.0/25
+	alhálózati maszk:255.255.255.128
+	használható címtartomány:192.168.92.1-126
+	szórási cím:192.168.92.127
+2. NYOMTATO (4 IP-cím igény)
+	hálózat azonosító:192.168.92.128/29
+	alhálózati maszk:255.255.255.248
+	használható címtartomány:192.168.92.129-134
+	szórási cím:192.168.92.135
+3. SZERVER (2 IP-cím igény)
+	hálózat azonosító:192.168.92.136/30
+	alhálózati maszk:255.255.255.252
+	használható címtartomány:192.168.92.137-138
+	szórási cím:192.168.92.139

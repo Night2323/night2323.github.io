@@ -1,0 +1,57 @@
+"cim";"rendezo";"jatekido";"mufaj";"megjelenes";"korhatar"
+"A Csillagok között";"Christopher Nolan";169;"Sci-Fi";2014;1
+"A gyűrűk ura: A király visszatér";"Peter Jackson";201;"Fantasy";2003;0
+"A Forma-1-es vége";"James Mangold";152;"Dráma";2019;0
+"Paraziták";"Bong Joon-ho";132;"Thriller";2019;1
+"Joker";"Todd Phillips";122;"Dráma";2019;1
+"Zöld könyv";"Peter Farrelly";130;"Vígjáték";2018;0
+"1917";"Sam Mendes";119;"Háborús";2019;1
+"Mulan";"Niki Caro";115;"Action";2020;0
+"A kém;aki dobott engem";"Cate Shortland";134;"Action";2021;0
+"Értem";"Martin McDonagh";115;"Vígjáték";2017;0
+"Aljas nyolcas";"Quentin Tarantino";187;"Western";2015;1
+"Whiplash - A dobos";"Rémy Girard";107;"Zene";2014;0
+"Mad Max: A harag útja";"George Miller";120;"Action";2015;0
+"Éhezők viadala - Az őrület napja";"Gary Ross";142;"Sci-Fi";2012;0
+"Gravity";"Alfonso Cuarón";91;"Sci-Fi";2013;0
+"Birdman";"Alejandro González Iñárritu";119;"Vígjáték";2014;1
+"Spotlight";"Tom McCarthy";128;"Dokumentum";2015;0
+"Néma film";"Michael Hazanavicius";100;"Vígjáték";2011;0
+"A mester";"Paul Thomas Anderson";144;"Dráma";2012;1
+"Az elnök embere";"Steven Spielberg";154;"Dráma";2012;0
+"Éhezők viadala - Futótűz";"Francis Lawrence";146;"Sci-Fi";2013;0
+"Interstellar";"Christopher Nolan";169;"Sci-Fi";2014;0
+"Vissza a jövőbe";"Robert Zemeckis";116;"Sci-Fi";2015;0
+"Világok harca";"Steven Spielberg";117;"Sci-Fi";2005;0
+"Az Újmutató";"Joel Coen";106;"Western";2018;1
+"Vadállatok: Grindelwald bűntettei";"David Yates";134;"Fantasy";2018;1
+"Gyilkos vallások";"David Fincher";155;"Krimi";2010;0
+"Harry Potter és a Főnix rendje";"David Yates";138;"Fantasy";2007;0
+"Harry Potter és a Halál ereklyéi";"David Yates";130;"Fantasy";2011;0
+"Párbaj";"Ridley Scott";155;"Dráma";2015;0
+"Északon nyugaton";"Boon Joon-ho";126;"Thriller";2017;0
+"Őrült; dilis; szerelem";"Paul Thomas Anderson";148;"Vígjáték";2012;0
+"Amour";"Michael Haneke";127;"Dráma";2012;0
+"A sebhelyek; amiket magunkban hordunk";"Tomas Alfredson";127;"Thriller";2011;0
+"Avatar";"James Cameron";162;"Sci-Fi";2009;0
+"Rajongók";"Bennett Miller";134;"Dokumentum";2015;0
+"Tűzgyűrű";"Kobe Bryant";90;"Animáció";2015;0
+"Út a vadonba";"Sean Penn";148;"Dokumentum";2007;0
+"Farkasokkal táncoló";"Benjamin Renner";80;"Animáció";2012;0
+"Midnight Special";"Jeff Nichols";112;"Sci-Fi";2016;0
+"Boyhood";"Richard Linklater";165;"Dráma";2014;0
+"Az első emberek";"Damien Chazelle";141;"Dráma";2018;0
+"Kárhozat";"Sam Raimi";140;"Horror";2009;1
+"Előre";"Hugh Jackman";108;"Animáció";2020;0
+"Hűség";"Marjane Satrapi";102;"Vígjáték";2019;0
+"Szépfiúk";"Oliver Stone";120;"Dráma";2017;0
+"A csend";"Bong Joon-ho";132;"Thriller";2020;0
+"Halálos iramban 7";"James Wan";137;"Action";2015;1
+"Egyiptom istenei";"Ridley Scott";127;"Fantasy";2014;1
+"Az éhezők viadala";"Gary Ross";142;"Sci-Fi";2012;0
+"Csillag születik";"Bradley Cooper";136;"Dráma";2018;0
+"Őserő";"Quentin Tarantino";187;"Western";2012;1
+"The Revenant";"Alejandro González Iñárritu";156;"Western";2015;1
+"Az ember, aki belefáradt a világba";"Gus Van Sant";157;"Thriller";2018;0
+"Az élet szép";"Paul Thomas Anderson";148;"Dráma";2019;0
+"Gyűlölet";"David Fincher";151;"Thriller";2010;0

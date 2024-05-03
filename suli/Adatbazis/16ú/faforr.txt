@@ -1,0 +1,1258 @@
+faj	kormeret	telepules	megyeid	meres
+közönséges bükk	420	Bükkszentkereszt	4	2007
+kocsányos tölgy	527	Őcsény	16	2010
+közönséges bükk	423	Vásárosbéc	2	2009
+közönséges bükk	470	Herend	18	2008
+kocsányos tölgy	603	Belezna	19	2002
+közönséges bükk	407	Eszteregnye	19	2010
+magas kőris	595	Csobád	4	2007
+kocsányos tölgy	657	Hetényegyháza	1	2003
+közönséges bükk	403	Sikonda	2	2008
+hárs	474	Szeleste	17	2003
+fekete nyár	760	Tahitótfalu	13	2011
+kocsányos tölgy	530	Kerkafalva	19	2004
+fehér nyár	654	Fenékpuszta	19	2010
+közönséges bükk	415	Pénzesgyőr	18	2009
+kocsányos tölgy	503	Túristvándi	15	2009
+kocsányos tölgy	553	Kálócfa	19	2004
+közönséges bükk	439	Monostorapáti	18	2009
+szelídgesztenye	694	Bak	19	2009
+házi berkenye	258	Zengővárkony	2	2011
+hegyi szil	430	Fenékpuszta	19	2009
+tulipánfa	415	Somogytarnóca	14	2010
+közönséges bükk	477	Pénzesgyőr	18	2006
+mocsárciprus	516	Martonvásár	6	2003
+közönséges bükk	421	Sikonda	2	2008
+csertölgy	554	Nagyrécse	19	2004
+ostorfa	362	Mezőhegyes	3	2010
+juharlevelű platán	737	Eger	9	2004
+közönséges bükk	402	Háromkő	9	2007
+közönséges bükk	616	Monostorapáti	18	2008
+közönséges bükk	476	Eszteregnye	19	2010
+közönséges bükk	482	Felsőmarác	17	2007
+hárs	438	Zirc	18	2004
+fehér eper	482	Pilisvörösvár	13	2011
+ginkgo	435	Iharos	14	2007
+közönséges bükk	434	Olaszfalu	18	2010
+vadcseresznye	415	Olaszfalu	18	2010
+kocsányos tölgy	500	Golop	4	2009
+közönséges bükk	400	Püspökszentlászló	2	2011
+fehér nyár	602	Algyő	5	2002
+mezei szil	475	Kisgörbő	19	2009
+közönséges bükk	476	Monostorapáti	18	2008
+közönséges bükk	507	Monostorapáti	18	2008
+kocsányos tölgy	529	Lad	14	2005
+közönséges bükk	476	Tátika	19	2004
+közönséges bükk	439	Püspökszentlászló	2	2011
+közönséges bükk	471	Olaszfalu	18	2010
+ostorfa	344	Kajdacs	16	2009
+közönséges bükk	445	Sikonda	2	2008
+kocsányos tölgy	589	Parádfürdő	9	2004
+magyar kőris	670	Lad	14	2009
+fekete nyár	853	Rákóczifalva	10	2011
+fűz	709	Gemenc	1	2010
+közönséges bükk	406	Pénzesgyőr	18	2010
+fekete nyár	685	Gemenc	16	2003
+közönséges bükk	430	Hárskút	18	2010
+kocsányos tölgy	510	Sárvár	17	2003
+közönséges bükk	503	Olaszfalu	18	2010
+csertölgy	534	Somogytúr	14	2009
+fekete nyár	699	Szekszárd	16	2009
+fekete nyár	635	Sárvár	17	2007
+kocsányos tölgy	624	Csokonyavisonta	14	2003
+közönséges bükk	435	Bükkszentkereszt	4	2007
+hegyi juhar	376	Kőszeg	17	2009
+közönséges bükk	446	Monostorapáti	18	2008
+közönséges bükk	432	Bükkszentkereszt	4	2007
+kocsányos tölgy	581	Mátraverebély	12	2003
+óriás mamutfenyő	663	Iharosberény	14	2007
+fekete nyár	620	Nyergesújfalu	11	2006
+közönséges bükk	436	Olaszfalu	18	2010
+kocsányos tölgy	613	Bak	19	2003
+fekete nyár	662	Karapancsa	1	2009
+kocsányos tölgy	606	Dénesfa	7	2003
+kocsányos tölgy	557	Kerkafalva	19	2004
+közönséges bükk	472	Lókút	18	2010
+korai juhar	515	Alsóhídvégpuszta	16	2009
+szelídgesztenye	551	Babócsa	14	2005
+hárs	400	Bak	19	2004
+gyertyán	367	Vöröstó	18	2009
+fekete nyár	622	Hódmezővásárhely	5	2007
+kocsányos tölgy	509	Bogyiszló	16	2007
+mocsárciprus	435	Devecser	18	2010
+kocsányos tölgy	574	Somogytarnóca	14	2011
+kocsányos tölgy	652	Péterhida	14	2003
+közönséges bükk	447	Sárszentmihály	6	2007
+kocsányos tölgy	585	Bácsborsód	1	2006
+kocsányos tölgy	525	Bóly	2	2003
+közönséges bükk	485	Püspökszentlászló	2	2005
+hárs	458	Füzérradvány	4	2004
+kislevelű hárs	561	Monostorapáti	18	2008
+kocsányos tölgy	680	Drávasztára	2	2002
+kocsányos tölgy	501	Letenye	19	2011
+közönséges bükk	491	Pénzesgyőr	18	2009
+kocsányos tölgy	571	Óföldeák	5	2010
+kocsányos tölgy	596	Noszvaj	9	2008
+kocsányos tölgy	562	Vátyonpuszta	3	2002
+kocsányos tölgy	532	Sárvár	17	2005
+kislevelű hárs	491	Zirc	18	2009
+kocsánytalan tölgy	538	Sikonda	2	2008
+közönséges bükk	473	Püspökszentlászló	2	2011
+szelídgesztenye	570	Iharosberény	14	2004
+közönséges bükk	403	Bükkszentkereszt	4	2007
+fehér akác	358	Tardos	11	2010
+kocsányos tölgy	600	Somogytúr	14	2009
+közönséges bükk	400	Sikonda	2	2008
+közönséges bükk	419	Magyarlukafa	2	2009
+ginkgo	527	Acsád	17	2006
+juharlevelű platán	635	Fót	13	2008
+fekete nyár	642	Szekszárd	16	2009
+zöld juhar	352	Gemenc	16	2009
+csertölgy	558	Kaposvár	14	2008
+közönséges bükk	415	Bükkszentkereszt	4	2007
+gyertyán	362	Hárskút	18	2010
+közönséges bükk	574	Lillafüred	4	2009
+kocsányos tölgy	507	Lepsény	6	2008
+kocsányos tölgy	528	Iklódbördőce	19	2004
+fehér fűz	689	Drégelypalánk	12	2008
+kocsányos tölgy	502	Tápióság	13	2011
+kocsányos tölgy	514	Dénesfa	7	2003
+juharlevelű platán	600	Cégénydányád	15	2003
+szelídgesztenye	515	Egervár	19	2011
+kocsányos tölgy	611	Mike	14	2005
+kocsányos tölgy	564	Pacsérvisnye	14	2010
+közönséges bükk	430	Bánkút	4	2009
+juharlevelű platán	660	Pápa	18	2004
+fekete nyár	735	Szegvár	5	2007
+tulipánfa	552	Csokonyavisonta	14	2010
+kocsányos tölgy	606	Somogytarnóca	14	2011
+közönséges bükk	439	Püspökszentlászló	2	2011
+gyertyán	355	Sikonda	2	2008
+borostyán	85	Kőszeg	17	2008
+kocsányos tölgy	512	Gemenc	16	2003
+kocsányos tölgy	501	Diósjenő	12	2005
+közönséges bükk	441	Püspökszentlászló	2	2011
+kocsányos tölgy	591	Lad	14	2009
+közönséges bükk	435	Monostorapáti	18	2009
+közönséges bükk	425	Magyarlukafa	2	2009
+közönséges bükk	553	Lillafüred	4	2009
+közönséges bükk	412	Monostorapáti	18	2008
+közönséges bükk	403	Püspökszentlászló	2	2011
+vénic szil	463	Nagykáta	13	2011
+közönséges bükk	495	Bükkszentkereszt	4	2007
+kislevelű hárs	475	Mezőcsokonya	14	2008
+hárs	475	Kislőd	18	2008
+lucfenyő	330	Sopron	7	2009
+kocsányos tölgy	534	Fadd	16	2010
+közönséges bükk	412	Szászvár	2	2011
+fehér akác	435	Somogytarnóca	14	2011
+magas kőris	579	Kéked	4	2010
+közönséges bükk	502	Lad	14	2009
+kocsányos tölgy	586	Sárvár	17	2003
+kocsányos tölgy	510	Gemenc	16	2009
+kocsányos tölgy	508	Bogyiszló	16	2007
+közönséges bükk	442	Bükkszentkereszt	4	2007
+fehér nyár	673	Belegrád	4	2007
+fekete nyár	719	Hódmezővásárhely	5	2006
+zöld juhar	415	Mezőhegyes	3	2010
+fekete nyár	685	Gemenc	1	2011
+fehér fűz	620	Gemenc	16	2011
+fekete nyár	665	Rákóczifalva	10	2011
+közönséges bükk	587	Gyenesdiás	19	2003
+kocsányos tölgy	510	Lad	14	2009
+kocsányos tölgy	504	Vinye	7	2010
+kocsányos tölgy	600	Sárvár	17	2003
+fehér nyár	665	Bagamér	8	2007
+kocsányos tölgy	538	Túristvándi	15	2009
+közönséges bükk	473	Bükkszentkereszt	4	2007
+közönséges bükk	468	Hárskút	18	2008
+óriás mamutfenyő	630	Kőszeg	17	2009
+kocsányos tölgy	638	Gemenc	16	2003
+kocsányos tölgy	684	Csákánydoroszló	17	2004
+tiszafa	263	Gemenc	16	2011
+juharlevelű platán	664	Eger	9	2004
+duglászfenyő	341	Iharos	14	2007
+kocsányos tölgy	665	Martonvásár	6	2003
+kocsányos tölgy	540	Nyársapát	13	2004
+fűz	602	Lovasberény	6	2010
+fekete nyár	608	Rákóczifalva	10	2011
+közönséges bükk	420	Pénzesgyőr	18	2006
+hegyi juhar	455	Szentlélek	4	2009
+közönséges bükk	437	Püspökszentlászló	2	2011
+közönséges bükk	426	Telkibánya	4	2009
+kocsányos tölgy	540	Gézaháza	18	2008
+hárs	502	Kaposmérő	14	2006
+kocsányos tölgy	527	Péterhida	14	2003
+kocsányos tölgy	577	Péterhida	14	2003
+kocsányos tölgy	511	Vizslás	12	2003
+kocsányos tölgy	617	Buják	12	2005
+közönséges bükk	435	Bükkszentkereszt	4	2007
+kocsányos tölgy	582	Lentiszombathely	19	2003
+kocsányos tölgy	500	Csorna	7	2009
+közönséges bükk	410	Vásárosbéc	2	2009
+kocsányos tölgy	509	Kajárpéc	7	2003
+kocsányos tölgy	543	Komlósd	14	2011
+fehér fűz	804	Kiskunfélegyháza	1	2006
+kocsánytalan tölgy	534	Csurgónagymarton	14	2008
+kocsányos tölgy	506	Ikervár	17	2008
+kocsányos tölgy	576	Drávasztára	2	2002
+csertölgy	548	Szőke	2	2003
+közönséges bükk	505	Balatoncsicsó	18	2002
+cseresznye	336	Vése	14	2010
+kocsányos tölgy	634	Szarvas	3	2003
+közönséges bükk	518	Monostorapáti	18	2008
+közönséges bükk	449	Lad	14	2003
+lucfenyő	340	Alcsútdoboz	6	2010
+hárs	405	Kaposmérő	14	2006
+közönséges bükk	512	Borsodnádasd	4	2010
+közönséges bükk	420	Hárskút	18	2010
+kocsányos tölgy	520	Szőcsénypuszta	14	2008
+kocsányos tölgy	548	Zirc	18	2010
+kocsányos tölgy	562	Gödöllő	13	2008
+kocsányos tölgy	545	Bogyiszló	16	2007
+fekete nyár	647	Köröstarcsa	3	2008
+közönséges bükk	431	Monostorapáti	18	2008
+gyertyán	306	Vöröstó	18	2009
+juharlevelű platán	624	Alcsútdoboz	6	2008
+vénic szil	405	Darány	14	2011
+közönséges bükk	465	Herend	18	2008
+szelídgesztenye	520	Iharosberény	14	2008
+csertölgy	537	Nagyrécse	19	2009
+szelídgesztenye	563	Zengővárkony	2	2004
+kocsányos tölgy	511	Komjáti	4	2008
+közönséges bükk	460	Bükkszentkereszt	4	2007
+vénic szil	582	Tapsony	14	2010
+törökmogyoró	374	Kajdacs	16	2009
+vadkörte	304	Somogyviszló	2	2009
+csertölgy	507	Eszteregnye	19	2010
+kocsányos tölgy	548	Sárvár	17	2005
+közönséges bükk	531	Ugod	18	2006
+japánakác	485	Sárospatak	4	2004
+fekete nyár	794	Ásványráró	7	2010
+magyar kőris	562	Dénesfa	7	2003
+fekete nyár	670	Barcs	14	2010
+közönséges bükk	410	Sellye	2	2011
+közönséges bükk	450	Borsodnádasd	4	2010
+kocsányos tölgy	525	Tornyiszentmiklós	19	2003
+kocsányos tölgy	540	Gemenc	16	2009
+szelídgesztenye	733	Boncodfölde	19	2001
+szürke nyár	756	Gibárt	4	2003
+japánakác	474	Komárom	11	2007
+nagylevelű hárs	622	Süttő	11	2003
+tulipánfa	578	Ivánc	17	2007
+magas kőris	550	Tornyiszentmiklós	19	2003
+fekete nyár	681	Köröstarcsa	3	2008
+kislevelű hárs	507	Nagyszakácsi	14	2010
+hárs	458	Kenyeri	17	2005
+fekete nyár	996	Nagyatád	14	2005
+közönséges bükk	473	Pénzesgyőr	18	2009
+fehér fűz	780	Halászi	7	2009
+juharlevelű platán	705	Mihályi	7	2008
+gyertyán	317	Bükkszentkereszt	4	2007
+hárs	468	Kaposmérő	14	2006
+kislevelű hárs	515	Olaszfalu	18	2010
+kocsányos tölgy	550	Sárvár	17	2003
+közönséges bükk	510	Bükkszentkereszt	4	2007
+közönséges bükk	404	Kárász	2	2010
+fehér fűz	605	Gemenc	16	2009
+kocsányos tölgy	515	Gyulavári	3	2009
+szelídgesztenye	554	Zengővárkony	2	2005
+közönséges bükk	522	Pénzesgyőr	18	2009
+hárs	452	Pogányvár	19	2003
+kocsányos tölgy	590	Vátyonpuszta	3	2002
+juharlevelű platán	732	Pölöske	19	2003
+kocsányos tölgy	540	Kétújfalu	2	2002
+kocsányos tölgy	510	Kéked	4	2010
+szelídgesztenye	759	Zengővárkony	2	2003
+kocsányos tölgy	502	Szabadkígyós	3	2010
+közönséges bükk	411	Olaszfalu	18	2010
+vénic szil	516	Barcs	14	2010
+kocsányos tölgy	555	Uzsa	18	2003
+óriás tuja	341	Alcsútdoboz	6	2010
+kocsányos tölgy	523	Sárvár	17	2003
+feketefenyő	312	Sopronhorpács	7	2009
+közönséges bükk	444	Pénzesgyőr	18	2009
+fekete nyár	652	Gemenc	1	2011
+fekete nyár	631	Sárvár	17	2003
+közönséges bükk	536	Tardos	11	2010
+kocsányos tölgy	980	Zsennye	17	2004
+fekete nyár	698	Pörböly	16	2003
+mezei juhar	340	Bolhó	14	2007
+kocsányos tölgy	678	Dömsöd	13	2003
+kocsányos tölgy	604	Nyíradony	8	2003
+kocsánytalan tölgy	707	Szentbalázs	14	2003
+kocsányos tölgy	581	Dénesfa	7	2003
+kocsányos tölgy	500	Kéked	4	2010
+kocsányos tölgy	555	Rátót	17	2003
+fekete nyár	751	Dunakiliti	7	2009
+juharlevelű platán	861	Körmend	17	2002
+szelídgesztenye	530	Szeleste	17	2003
+közönséges bükk	444	Püspökszentlászló	2	2011
+kocsányos tölgy	512	Lad	14	2009
+közönséges bükk	407	Püspökszentlászló	2	2011
+közönséges bükk	450	Sikonda	2	2008
+fekete nyár	738	Gemenc	1	2011
+juharlevelű platán	606	Tata	11	2004
+enyves éger	458	Szombathely	17	2008
+szelídgesztenye	640	Velem	17	2004
+kocsányos tölgy	721	Orosipuszta	3	2004
+mocsárciprus	366	Devecser	18	2010
+közönséges bükk	462	Bükkszentkereszt	4	2007
+nagylevelű hárs	514	Ganna	18	2004
+fűz	823	Csokonyavisonta	14	2003
+juharlevelű platán	631	Budapest	13	2003
+kocsányos tölgy	533	Kákics	2	2003
+gyertyán	327	Somogyviszló	2	2009
+szelídgesztenye	736	Sé	17	2004
+csertölgy	608	Szőke	2	2003
+vadgesztenye	526	Budapest	13	2003
+nagylevelű hárs	583	Márianosztra	13	2008
+közönséges bükk	476	Monostorapáti	18	2008
+közönséges bükk	435	Kőszeg	17	2004
+közönséges bükk	462	Kab-hegy	18	2006
+közönséges bükk	412	Csipkéskút	4	2009
+közönséges bükk	401	Csipkéskút	4	2009
+fűz	656	Gemenc	16	2010
+szelídgesztenye	578	Zengővárkony	2	2005
+szürke nyár	686	Szank	1	2011
+juharlevelű platán	703	Füzérradvány	4	2004
+hárs	509	Kaposmérő	14	2006
+közönséges bükk	508	Bak	19	2004
+kocsányos tölgy	555	Battonya	3	2003
+közönséges bükk	460	Borsodnádasd	4	2010
+kocsánytalan tölgy	552	Eszteregnye	19	2010
+közönséges bükk	414	Ugod	18	2006
+mocsárciprus	417	Devecser	18	2010
+fekete nyár	822	Ásványráró	7	2010
+gyertyán	372	Bak	19	2004
+közönséges bükk	476	Szilvásvárad	9	2004
+kocsányos tölgy	550	Hernádcéce	4	2010
+kocsányos tölgy	535	Mezőberény	3	2002
+fehér fűz	740	Adony	6	2009
+kocsányos tölgy	625	Zsennye	17	2005
+ostorfa	415	Dég	6	2009
+óriás mamutfenyő	712	Iharosberény	14	2007
+barkóca berkenye	325	Szentgál	18	2007
+mocsárciprus	383	Szombathely	17	2008
+vörösfenyő	336	Jávorkút	4	2009
+fekete nyár	609	Gemenc	16	2009
+közönséges bükk	410	Monostorapáti	18	2008
+kocsányos tölgy	503	Füzérradvány	4	2004
+közönséges bükk	414	Püspökszentlászló	2	2011
+fekete nyár	697	Matty	2	2008
+vénic szil	490	Vasszécseny	17	2006
+közönséges bükk	415	Vásárosbéc	2	2009
+kocsányos tölgy	510	Vereb	6	2010
+nagylevelű hárs	543	Sárhatvan	6	2008
+juharlevelű platán	612	Letenye	19	2004
+fehér eper	441	Sárszentlőrinc	16	2009
+szelídgesztenye	548	Zengővárkony	2	2005
+kocsányos tölgy	549	Fenékpuszta	19	2009
+kocsányos tölgy	613	Gemenc	1	2010
+kocsányos tölgy	644	Ragály	4	2003
+fekete nyár	731	Révfalu	2	2010
+duglászfenyő	362	Mesztegnyő	14	2008
+mezei juhar	370	Herend	18	2008
+juharlevelű platán	909	Szabadbattyán	6	2004
+közönséges bükk	465	Püspökszentlászló	2	2011
+hárs	458	Somogyudvarhely	14	2002
+fekete nyár	607	Révfalu	2	2010
+kocsányos tölgy	558	Tamási	16	2011
+közönséges bükk	562	Balatonhenye	18	2002
+gyertyán	328	Vöröstó	18	2009
+gyertyán	341	Vöröstó	18	2009
+kocsányos tölgy	506	Téglás	8	2006
+közönséges bükk	415	Herend	18	2008
+kocsányos tölgy	607	Deszk	5	2002
+kocsányos tölgy	516	Ács	11	2010
+kislevelű hárs	409	Nagydobsza	2	2011
+hárs	407	Lajosháza	14	2009
+fehér fűz	645	Szekszárd	16	2009
+szelídgesztenye	502	Antalszállás	2	2003
+fekete nyár	658	Szegvár	5	2007
+magas kőris	516	Fehérvárcsurgó	6	2007
+közönséges bükk	414	Püspökszentlászló	2	2011
+közönséges bükk	434	Püspökszentlászló	2	2011
+közönséges bükk	421	Vasvár	17	2008
+közönséges bükk	414	Bükkszentkereszt	4	2007
+kocsányos tölgy	575	Tatabánya	11	2008
+közönséges bükk	500	Pusztamarót	11	2008
+fekete nyár	631	Székesheférvár	6	2008
+vénic szil	457	Szarvas	3	2009
+magas kőris	530	Ács	11	2010
+szelídgesztenye	502	Kőszeg	17	2009
+lucfenyő	375	Jávorkút	4	2009
+közönséges bükk	459	Monostorapáti	18	2008
+közönséges bükk	503	Zirc	18	2004
+gyertyán	334	Vöröstó	18	2009
+kocsányos tölgy	503	Somogytarnóca	14	2011
+közönséges bükk	408	Bánkút	4	2009
+közönséges bükk	438	Bükkszentkereszt	4	2007
+közönséges bükk	475	Pénzesgyőr	18	2009
+kocsányos tölgy	502	Orosipuszta	3	2004
+kocsányos tölgy	570	Somogytarnóca	14	2002
+gyertyán	346	Komlósd	14	2011
+gyertyán	312	Vöröstó	18	2009
+közönséges bükk	471	Herend	18	2008
+fűz	698	Gemenc	16	2003
+fekete nyár	930	Barcs	14	2010
+gyertyán	345	Hárskút	18	2010
+juharlevelű platán	696	Cégénydányád	15	2003
+kocsányos tölgy	630	Szarvas	3	2003
+fekete nyár	656	Barcs	14	2009
+közönséges bükk	546	Monostorapáti	18	2008
+kocsányos tölgy	697	Tótújfalu	14	2003
+közönséges bükk	429	Dióspuszta	2	2009
+közönséges bükk	440	Pénzesgyőr	18	2009
+kocsányos tölgy	585	Barcs	14	2009
+juharlevelű platán	846	Kőszeg	17	2002
+közönséges bükk	428	Bak	19	2004
+fehér akác	414	Somogytarnóca	14	2011
+közönséges bükk	519	Gadány	14	2010
+kocsányos tölgy	511	Zsennye	17	2005
+közönséges bükk	450	Zirc	18	2004
+kislevelű hárs	432	Somogytarnóca	14	2011
+közönséges bükk	405	Püspökszentlászló	2	2011
+fehér fűz	645	Mosonmagyaróvár	7	2009
+kocsányos tölgy	601	Réde	11	2010
+kocsányos tölgy	530	Nógrád	12	2003
+fekete nyár	695	Ásványráró	7	2010
+közönséges bükk	539	Kishuta	4	2006
+fekete nyár	625	Hódmezővásárhely	5	2006
+fekete nyár	815	Barcs	14	2010
+fehér nyár	746	Alsóberecki	4	2007
+szelídgesztenye	611	Nagytilaj	17	2007
+fekete nyár	613	Gemenc	16	2011
+közönséges bükk	402	Lad	14	2009
+közönséges bükk	441	Hárskút	18	2010
+fekete nyár	830	Gemenc	1	2010
+nagylevelű hárs	552	Sajósenye	4	2003
+fekete nyár	612	Gemenc	1	2010
+kocsányos tölgy	505	Ercsi	6	2009
+kocsányos tölgy	520	Kerkafalva	19	2004
+kocsányos tölgy	546	Diósviszló	2	2010
+közönséges bükk	400	Barátipuszta	19	2004
+fehér nyár	603	Alsóberecki	4	2007
+vénic szil	433	Gemenc	1	2011
+mezei juhar	355	Sikonda	2	2008
+közönséges bükk	405	Monostorapáti	18	2008
+fehér nyár	664	Somogyvár	14	2007
+közönséges bükk	488	Sikonda	2	2008
+közönséges bükk	509	Monostorapáti	18	2008
+közönséges bükk	478	Bükkszentkereszt	4	2007
+kocsányos tölgy	633	Buják	12	2005
+epernarancs	372	Sellye	2	2011
+közönséges bükk	415	Bükkszentkereszt	4	2007
+kocsányos tölgy	520	Debrecen	8	2004
+közönséges bükk	402	Bükkszentkereszt	4	2007
+japánakác	482	Alsóhídvégpuszta	16	2009
+fűz	834	Mosonmagyaróvár	7	2003
+kocsányos tölgy	509	Zsennye	17	2005
+szelídgesztenye	814	Nagykutas	19	2002
+közönséges bükk	415	Borsodnádasd	4	2010
+fehér eper	482	Paks	16	2009
+kocsányos tölgy	593	Kisköre	9	2003
+ezüsthárs	602	Boldogkőváralja	4	2004
+kocsányos tölgy	694	Bolhó	14	2003
+kocsányos tölgy	547	Surd	19	2007
+közönséges bükk	428	Herend	18	2008
+közönséges bükk	495	Monostorapáti	18	2008
+kocsányos tölgy	546	Károlyfalva	4	2004
+kocsányos tölgy	555	Segesd	14	2006
+fekete nyár	728	Szekszárd	16	2009
+szürke nyár	734	Tahitótfalu	13	2011
+fekete nyár	770	Tahitótfalu	13	2011
+kocsányos tölgy	521	Tótszentgyörgy	2	2008
+fűz	627	Gemenc	1	2010
+korai juhar	468	Hencse	14	2006
+fűz	621	Hajmáspuszta	18	2010
+fekete nyár	685	Tiszacsege	8	2010
+kocsányos tölgy	560	Sárvár	17	2003
+vörösfenyő	337	Répáshuta	4	2009
+közönséges bükk	431	Szuha	12	2003
+kislevelű hárs	510	Vasszécseny	17	2006
+hárs	450	Acsád	17	2006
+fűz	832	Gemenc	16	2003
+közönséges bükk	430	Bánkút	4	2009
+közönséges bükk	403	Borsodnádasd	4	2010
+kocsányos tölgy	530	Mikekarácsonyfa	19	2004
+kocsányos tölgy	533	Szécsisziget	19	2003
+vörösfenyő	333	Zirc	18	2010
+kocsányos tölgy	537	Bácsborsód	1	2006
+gyertyán	327	Bükkszentkereszt	4	2007
+kocsányos tölgy	502	Kerkafalva	19	2004
+fehér nyár	800	Révleányvár	4	2009
+fekete nyár	762	Ásványráró	7	2010
+közönséges bükk	408	Borsodnádasd	4	2010
+fekete nyár	692	Szigetbecse	13	2004
+kocsányos tölgy	750	Hédervár	7	2003
+közönséges bükk	504	Lillafüred	4	2009
+ezüsthárs	625	Börzsöny	13	2004
+kocsányos tölgy	560	Gemenc	16	2003
+magyar tölgy	531	Deszk	5	2011
+szelídgesztenye	501	Iharosberény	14	2008
+fehér nyár	900	Doba	18	2004
+szelídgesztenye	521	Bazsi	18	2008
+kocsányos tölgy	536	Hegyhátszentmárton	17	2008
+kocsányos tölgy	542	Réde	11	2010
+fekete nyár	651	Szekszárd	16	2009
+fekete nyár	651	Révfalu	2	2010
+kocsányos tölgy	500	Somogyfajsz	14	2010
+kocsányos tölgy	580	Molvány	2	2011
+fekete nyár	696	Hajmáspuszta	11	2010
+kocsányos tölgy	507	Kerkafalva	19	2004
+kocsányos tölgy	526	Nadap	6	2009
+vénic szil	510	Kerkakutas	19	2004
+császárfa	463	Seregélyes	6	2007
+közönséges bükk	435	Monostorapáti	18	2008
+fekete nyár	683	Rum	17	2006
+japánakác	455	Alcsútdoboz	6	2010
+fehér nyár	715	Barcs	14	2010
+kocsányos tölgy	529	Gemenc	16	2010
+hárs	420	Somogyhatvan	2	2002
+fűz	600	Baja	1	2010
+közönséges bükk	400	Borsodnádasd	4	2010
+nagylevelű hárs	590	Bakóca	2	2004
+vadgesztenye	447	Szőcsénypuszta	14	2008
+kocsányos tölgy	518	Tiszaigar	10	2003
+közönséges bükk	412	Bükkszentkereszt	4	2007
+kocsányos tölgy	500	Füzérradvány	4	2009
+juharlevelű platán	604	Alcsútdoboz	6	2004
+fekete nyár	732	Előszállás	6	2008
+kocsányos tölgy	514	Tuzsér	15	2003
+közönséges bükk	400	Sikonda	2	2008
+kocsányos tölgy	506	Balajt	4	2011
+fehér akác	362	Somogytarnóca	14	2011
+juharlevelű platán	637	Budapest	13	2010
+kocsányos tölgy	599	Teklafalu	2	2005
+juharlevelű platán	610	Budapest	13	2003
+csertölgy	519	Nagyrécse	19	2009
+kocsányos tölgy	511	Mezőcsokonya	14	2008
+fekete nyár	655	Babócsa	14	2006
+kocsányos tölgy	528	Szabadkígyós	3	2004
+duglászfenyő	467	Rinyabesenyő	14	2007
+kocsányos tölgy	602	Lad	14	2009
+magas kőris	500	Lókút	18	2010
+közönséges bükk	552	Monostorapáti	18	2008
+fehér nyár	610	Barcs	14	2009
+kocsányos tölgy	630	Letenye	19	2004
+közönséges bükk	400	Hárskút	18	2004
+hárs	432	Kislőd	18	2008
+fehér nyár	605	Barcs	14	2009
+közönséges bükk	415	Püspökszentlászló	2	2011
+nagylevelű hárs	1038	Ötvöskónyi	14	2003
+kocsányos tölgy	560	Somogytúr	14	2008
+gyertyán	430	Herend	18	2008
+közönséges bükk	410	Monostorapáti	18	2008
+közönséges bükk	400	Püspökszentlászló	2	2011
+közönséges bükk	441	Bükkszentkereszt	4	2007
+japánakác	403	Egyházashetye	17	2011
+kocsányos tölgy	507	Felsőszentmárton	2	2011
+közönséges bükk	421	Monostorapáti	18	2008
+kocsányos tölgy	540	Potony	14	2009
+kislevelű hárs	420	Réde	18	2010
+erdei fenyő	314	Somogyudvarhely	14	2008
+közönséges bükk	402	Olaszfalu	18	2010
+gyertyán	311	Vöröstó	18	2009
+fekete nyár	852	Drávatamási	14	2009
+fekete nyár	672	Szekszárd	16	2010
+közönséges bükk	455	Monostorapáti	18	2009
+szürke nyár	906	Mór	6	2008
+közönséges bükk	418	Nagyrécse	19	2004
+közönséges bükk	512	Répáshuta	4	2007
+magas kőris	500	Zirc	18	2004
+kocsányos tölgy	598	Keszthely	19	2004
+kocsányos tölgy	534	Martonvásár	6	2003
+kocsányos tölgy	592	Zsennye	17	2005
+fekete nyár	615	Hódmezővásárhely	5	2006
+enyves éger	384	Zirc	18	2010
+fekete nyár	692	Gemenc	1	2010
+közönséges bükk	430	Püspökszentlászló	2	2011
+kocsányos tölgy	560	Kaposvár	14	2008
+kocsányos tölgy	597	Mosonmagyaróvár	7	2003
+kocsányos tölgy	580	Bokod	11	2005
+kocsányos tölgy	575	Segesd	14	2006
+közönséges bükk	596	Püspökszentlászló	2	2011
+fűz	629	Lovasberény	6	2010
+fekete nyár	638	Szekszárd	16	2009
+kocsányos tölgy	693	Somogytarnóca	14	2003
+kocsányos tölgy	556	Nagyrécse	19	2004
+kocsányos tölgy	598	Somogytarnóca	14	2011
+fehér nyár	630	Pácin	4	2009
+lucfenyő	372	Jávorkút	4	2009
+mezei juhar	361	Sikonda	2	2008
+nagylevelű hárs	519	Putnok	4	2008
+kocsányos tölgy	511	Túristvándi	15	2009
+szelídgesztenye	628	Iharosberény	14	2004
+fehér fűz	602	Szekszárd	16	2009
+közönséges bükk	408	Olaszfalu	18	2010
+közönséges bükk	468	Monostorapáti	18	2008
+kocsányos tölgy	569	Bokod	11	2005
+közönséges bükk	423	Tormafölde	19	2004
+kocsányos tölgy	514	Gemenc	16	2010
+kocsányos tölgy	529	Tuzsér	15	2003
+szelídgesztenye	816	Szentgyörgyvár	19	2003
+juharlevelű platán	728	Gyula	3	2004
+kocsányos tölgy	537	Somogytarnóca	14	2010
+kocsányos tölgy	525	Kaposvár	14	2008
+japánakác	530	Egyed	7	2007
+kocsányos tölgy	506	Diósviszló	2	2010
+hárs	489	Zsira	17	2007
+kocsányos tölgy	556	Kétújfalu	2	2002
+kocsányos tölgy	606	Segesd	14	2005
+ezüsthárs	564	Agárd	6	2007
+mocsárciprus	358	Devecser	18	2010
+kocsányos tölgy	500	Gerla	3	2004
+kocsányos tölgy	580	Tiszadada	15	2005
+ezüst juhar	351	Balatonfüred	18	2009
+közönséges bükk	406	Püspökszentlászló	2	2011
+kocsányos tölgy	640	Komlósd	14	2011
+ezüsthárs	500	Sellye	2	2009
+fekete nyár	924	Gyúró	6	2010
+hárs	461	Pusztavám	6	2004
+fűz	602	Gemenc	1	2010
+kocsányos tölgy	555	Csákánydoroszló	17	2004
+lucfenyő	415	Jávorkút	4	2009
+kocsányos tölgy	531	Zádor	2	2005
+kislevelű hárs	691	Monostorapáti	18	2008
+közönséges bükk	439	Püspökszentlászló	2	2011
+kocsányos tölgy	547	Máhomfa	19	2003
+fekete nyár	847	Kisszentmárton	2	2005
+közönséges bükk	487	Monostorapáti	18	2008
+nagylevelű hárs	467	Börzsöny	12	2011
+fehér nyár	722	Barcs	14	2009
+fehér nyár	630	Bagamér	8	2007
+közönséges bükk	414	Csipkéskút	4	2009
+molyhos tölgy	632	Szebény	2	2002
+kocsányos tölgy	551	Hegyhátszentmárton	17	2008
+közönséges bükk	511	Herend	18	2008
+kocsányos tölgy	583	Sárvár	17	2007
+zöld juhar	400	Helesfa	2	2009
+juharlevelű platán	637	Budapest	13	2003
+lucfenyő	418	Jávorkút	4	2009
+kocsányos tölgy	596	Gemenc	16	2009
+juharlevelű platán	992	Pápa	18	2004
+közönséges bükk	505	Herend	18	2008
+fehér nyár	660	Algyő	5	2002
+kocsányos tölgy	500	Tatabánya	11	2008
+fekete nyár	740	Barcs	14	2010
+fekete fenyő	340	Dég	6	2009
+fekete nyár	644	Gemenc	16	2010
+hegyi szil	402	Zirc	18	2010
+fűz	725	Gemenc	1	2010
+fekete nyár	676	Rákóczifalva	10	2011
+ezüst juhar	403	Szeged	5	2010
+magyar kőris	565	Drávaszentes	14	2011
+szelídgesztenye	586	Iharosberény	14	2004
+közönséges bükk	401	Lókút	18	2010
+közönséges bükk	438	Szászvár	2	2011
+kocsányos tölgy	580	Kisgyőr	4	2011
+közönséges bükk	423	Pénzesgyőr	18	2006
+közönséges bükk	406	Hárskút	18	2010
+kislevelű hárs	460	Pölöske	19	2010
+kocsányos tölgy	510	Pettend	2	2008
+közönséges bükk	440	Pénzesgyőr	18	2010
+fekete dió	626	Zomba	16	2006
+fekete nyár	688	Barcs	14	2010
+kocsányos tölgy	540	Lentiszombathely	19	2003
+kocsányos tölgy	524	Szőcsénypuszta	14	2008
+fehér fűz	715	Bélmegyer	3	2002
+kocsányos tölgy	535	Dénesfa	7	2003
+kocsányos tölgy	565	Tiszakürt	10	2004
+kocsányos tölgy	545	Nagykölked	17	2003
+gyertyán	388	Monostorapáti	18	2008
+fekete nyár	667	Rákóczifalva	10	2011
+nagylevelű hárs	563	Márianosztra	13	2008
+törökmogyoró	347	Romhány	12	2005
+közönséges bükk	411	Eszteregnye	19	2010
+kocsányos tölgy	558	Bolhó	14	2003
+közönséges bükk	444	Borsodnádasd	4	2010
+közönséges bükk	444	Szuha	12	2003
+fekete nyár	625	Szegvár	5	2007
+közönséges bükk	408	Püspökszentlászló	2	2011
+kocsányos tölgy	630	Gemenc	16	2003
+csertölgy	519	Vásárosbéc	2	2009
+kocsányos tölgy	502	Cserépfalu	4	2008
+szelídgesztenye	509	Újudvar	19	2006
+közönséges bükk	472	Barátipuszta	19	2004
+fehér fűz	613	Szekszárd	16	2009
+közönséges bükk	414	Kőszeg	17	2010
+kislevelű hárs	558	Gencsapáti	17	2007
+fekete nyár	695	Gemenc	16	2011
+kocsányos tölgy	575	Szalafő	17	2004
+közönséges bükk	450	Kárász	2	2010
+fekete nyár	637	Rum	17	2006
+kocsányos tölgy	507	Galgamácsa	13	2004
+gyertyán	360	Komlósd	14	2011
+kocsányos tölgy	578	Péterhida	14	2003
+közönséges bükk	469	Somogyviszló	2	2009
+hárs	460	Kisdobsza	2	2008
+fekete nyár	1010	Köröstarcsa	3	2008
+mezei juhar	398	Csertő	2	2010
+kocsányos tölgy	524	Túristvándi	15	2009
+fehér akác	349	Sonkád	15	2009
+juharlevelű platán	731	Pápa	18	2007
+fekete nyár	1064	Révfalu	2	2010
+kocsányos tölgy	500	Molvány	2	2011
+kocsányos tölgy	575	Sárvár	17	2003
+enyves éger	412	Devecser	18	2008
+hárs	490	Monostorapáti	18	2009
+szelídgesztenye	586	Bazsi	18	2008
+kocsányos tölgy	748	Bak	19	2004
+gyertyán	528	Somogytúr	14	2009
+kocsányos tölgy	611	Oroszlány	11	2005
+óriás mamutfenyő	612	Zalahaláp	18	2009
+nagylevelű hárs	517	Nagykovácsi	13	2011
+gyertyán	426	Monostorapáti	18	2008
+fűz	696	Lovasberény	6	2010
+kocsányos tölgy	528	Túristvándi	15	2009
+közönséges bükk	443	Bükk-fennsík	9	2009
+közönséges bükk	400	Borsodnádasd	4	2010
+fekete nyár	698	Gemenc	1	2010
+vadkörte	331	Túristvándi	15	2009
+közönséges bükk	426	Bükkszentkereszt	4	2007
+kocsányos tölgy	512	Molvány	2	2011
+közönséges bükk	435	Hárskút	18	2010
+kocsányos tölgy	623	Bárdudvarnok	14	2008
+fűz	726	Gemenc	16	2010
+közönséges bükk	432	Bükkszentkereszt	4	2007
+fekete nyár	677	Pécs	2	2010
+fekete nyár	642	Mártély	5	2008
+kocsányos tölgy	545	Tornyópuszta	11	2011
+gyertyán	369	Péterhida	14	2009
+juharlevelű platán	979	Peresznye	17	2002
+fekete nyár	705	Barcs	14	2010
+kocsányos tölgy	500	Kisgyőr	4	2010
+közönséges bükk	410	Olaszfalu	18	2010
+közönséges bükk	432	Felsőmarác	17	2007
+közönséges bükk	461	Gadány	14	2010
+vadcseresznye	355	Lad	14	2009
+közönséges bükk	411	Olaszfalu	18	2010
+közönséges bükk	510	Sopron	7	2009
+óriás mamutfenyő	624	Gencsapáti	17	2004
+közönséges bükk	439	Monostorapáti	18	2008
+kocsányos tölgy	509	Martonvásár	6	2003
+fekete nyár	710	Baja	1	2010
+kocsányos tölgy	503	Túristvándi	15	2009
+kocsányos tölgy	619	Merenye	2	2009
+japánakác	449	Zirc	18	2010
+közönséges bükk	429	Olaszfalu	18	2010
+vadgesztenye	408	Fehérvárcsurgó	6	2010
+fehér nyár	880	Dóc	5	2004
+kocsányos tölgy	530	Komlósd	14	2011
+közönséges bükk	422	Pénzesgyőr	18	2009
+kislevelű hárs	500	Őriszentpéter	17	2004
+közönséges bükk	571	Ugod	18	2006
+kocsányos tölgy	500	Zsennye	17	2005
+közönséges bükk	584	Ugod	18	2006
+közönséges bükk	466	Olaszfalu	18	2010
+közönséges bükk	445	Lókút	18	2010
+kocsányos tölgy	616	Sárvár	17	2003
+szelídgesztenye	586	Iharosberény	14	2008
+közönséges bükk	404	Pénzesgyőr	18	2009
+közönséges bükk	434	Bánkút	4	2009
+kocsányos tölgy	512	Szabadkígyós	3	2004
+fehér eper	456	Cserépváralja	4	2005
+kocsányos tölgy	618	Póstelek	3	2009
+nagylevelű hárs	579	Sopronhorpács	7	2004
+magas kőris	512	Lókút	18	2010
+kocsányos tölgy	560	Szeremle	1	2010
+kislevelű hárs	402	Pölöske	19	2010
+kocsányos tölgy	615	Tornyiszentmiklós	19	2003
+fekete nyár	644	Gemenc	16	2009
+közönséges bükk	519	Monostorapáti	18	2008
+hárs	546	Kisláng	6	2004
+korai juhar	402	Herend	18	2008
+ezüsthárs	435	Almamellék	2	2009
+fűz	640	Ásványráró	7	2010
+kislevelű hárs	533	Szeleste	17	2003
+fekete nyár	677	Kemence	13	2009
+kocsányos tölgy	616	Bóly	2	2003
+fekete nyár	601	Pátka	6	2008
+kocsányos tölgy	626	Gemenc	16	2003
+szelídgesztenye	560	Iharosberény	14	2004
+vadgesztenye	429	Budapest	13	2010
+hárs	400	Zirc	18	2004
+szelídgesztenye	518	Zengővárkony	2	2004
+fekete nyár	837	Hódmezővásárhely	5	2006
+kocsányos tölgy	512	Borsodivánka	4	2003
+kocsányos tölgy	551	Homokszentgyörgy	14	2005
+fűz	722	Lovasberény	6	2010
+szelídgesztenye	506	Bazsi	18	2008
+fekete bodza	165	Hajdúböszörmény	8	2010
+fekete nyár	705	Szekszárd	16	2009
+csertölgy	532	Kaposvár	14	2008
+magas kőris	510	Bodrogolaszi	4	2009
+közönséges bükk	410	Monostorapáti	18	2008
+közönséges bükk	514	Monostorapáti	18	2008
+kocsánytalan tölgy	535	Börzönce	19	2004
+kocsányos tölgy	580	Uraiújfalu	17	2007
+hegyi szil	444	Hárskút	18	2004
+közönséges bükk	500	Monostorapáti	18	2008
+gyertyán	331	Bükkszentkereszt	4	2007
+közönséges bükk	519	Zselickisfalud	14	2006
+vadkörte	326	Bogyiszló	16	2007
+fekete nyár	1072	Adony	6	2009
+közönséges bükk	420	Rigyác	19	2004
+csertölgy	592	Almamellék	2	2009
+közönséges bükk	407	Rigyác	19	2004
+Kislevelű hárs	492	Lad	14	2009
+kocsányos tölgy	610	Gyulavári	3	2002
+kocsányos tölgy	540	Karapancsa	1	2009
+hárs	405	Kislőd	18	2008
+kocsányos tölgy	503	Rinyabesenyő	14	2007
+fekete nyár	666	Tiszabecs	15	2009
+fekete nyár	667	Parádfürdő	9	2007
+közönséges bükk	433	Magyarlukafa	2	2009
+szelídgesztenye	503	Iharosberény	14	2008
+lucfenyő	365	Pölöske	19	2007
+közönséges bükk	468	Hárskút	18	2010
+közönséges bükk	411	Monostorapáti	18	2008
+kocsányos tölgy	506	Tuzsér	15	2003
+közönséges bükk	490	Püspökszentlászló	2	2011
+lucfenyő	359	Jávorkút	4	2009
+kocsányos tölgy	531	Bolhó	14	2003
+kocsányos tölgy	695	Kisgyőr	4	2010
+törökmogyoró	412	Gyöngyös	9	2008
+kocsányos tölgy	704	Guthi erdészet	8	2003
+fekete nyár	870	Drávapalkonya	2	2003
+kocsányos tölgy	506	Gemenc	16	2003
+kocsányos tölgy	559	Csokonyavisonta	14	2003
+kocsányos tölgy	618	Becsvölgye	19	2004
+kocsányos tölgy	560	Kisbózsva	4	2008
+vadgesztenye	474	Iharosberény	14	2007
+szelídgesztenye	514	Iharosberény	14	2004
+kocsányos tölgy	540	Dénesfa	7	2007
+fehér nyár	735	Hódmezővásárhely	5	2002
+kocsányos tölgy	540	Gemenc	16	2003
+fekete nyár	663	Mártély	5	2008
+hárs	465	Velence	6	2004
+juharlevelű platán	712	Pápa	18	2007
+közönséges bükk	433	Olaszfalu	18	2010
+kocsányos tölgy	500	Szeremle	1	2010
+közönséges bükk	428	Csurgónagymarton	14	2008
+szelídgesztenye	658	Pogányvár	19	2003
+fekete nyár	696	Gyúró	6	2010
+közönséges bükk	409	Pénzesgyőr	18	2006
+közönséges bükk	446	Püspökszentlászló	2	2011
+közönséges bükk	453	Börzsöny	13	2004
+erdei fenyő	344	Somogyudvarhely	14	2008
+vénic szil	488	Bolhó	14	2003
+közönséges bükk	550	Kám	17	2010
+juharlevelű platán	717	Pölöske	19	2003
+kocsányos tölgy	594	Pörböly	16	2005
+közönséges bükk	449	Lengyel	16	2007
+magas kőris	500	Hidasnémeti	4	2008
+közönséges bükk	449	Sikonda	2	2008
+közönséges bükk	400	Bánkút	4	2009
+kocsányos tölgy	520	Tótszentgyörgy	2	2008
+lucfenyő	371	Jávorkút	4	2009
+enyves éger	367	Szombathely	17	2008
+kocsányos tölgy	545	Sárvár	17	2003
+fehér akác	326	Somogytarnóca	14	2011
+kocsányos tölgy	503	Lad	14	2009
+gyertyán	555	Oroklán	19	2011
+kocsányos tölgy	526	Molvány	2	2011
+nagylevelű hárs	435	Fehérvárcsurgó	6	2007
+szelídgesztenye	564	Velem	17	2008
+fekete nyár	617	Hódmezővásárhely	5	2006
+juharlevelű platán	666	Pápa	18	2004
+közönséges bükk	420	Olaszfalu	18	2010
+szürke nyár	635	Kehidakustány	19	2005
+fekete dió	406	Zirc	18	2010
+kocsányos tölgy	522	Alsóbogát	14	2007
+kocsányos tölgy	654	Egerbakta	9	2004
+közönséges bükk	456	Hárskút	18	2010
+fehér akác	630	Bábolna	7	2006
+juharlevelű platán	620	Somogyfajsz	14	2010
+kocsányos tölgy	524	Sárvár	17	2003
+bálványfa	468	Szabatonpuszta	16	2009
+kocsányos tölgy	536	Drávasztára	2	2002
+kocsányos tölgy	505	Nemesnép	19	2004
+közönséges bükk	471	Csurgónagymarton	14	2008
+vadkörte	344	Gyöngyösfalu	17	2007
+kocsányos tölgy	548	Nagyrábé	8	2007
+kocsányos tölgy	584	Pusztavacs	13	2004
+közönséges bükk	439	Barátipuszta	19	2004
+kocsányos tölgy	501	Dég	6	2009
+kocsányos tölgy	594	Sárvár	17	2003
+közönséges bükk	452	Bükkszentkereszt	4	2007
+kocsányos tölgy	546	Darnó	15	2009
+juharlevelű platán	689	Budapest	13	2010
+mezei juhar	364	Somogyvár	14	2007
+zöld juhar	337	Tornaszentjakab	4	2008
+kocsányos tölgy	546	Kákics	2	2002
+hárs	403	Kislőd	18	2008
+fehér nyár	606	Maroslele	5	2006
+fehér fűz	743	Csala	6	2008
+fehér nyár	640	Barcs	14	2009
+kocsányos tölgy	684	Drávaszentes	14	2011
+közönséges bükk	425	Kőszeg	17	2009
+fekete nyár	708	Baja	1	2008
+kocsányos tölgy	649	Tarpa	15	2009
+fekete nyár	692	Gemenc	1	2010
+kocsányos tölgy	519	Túristvándi	15	2009
+közönséges bükk	630	Monostorapáti	18	2008
+közönséges bükk	414	Monostorapáti	18	2009
+kocsányos tölgy	542	Lentiszombathely	19	2003
+kocsányos tölgy	592	Tiszaigar	10	2003
+közönséges bükk	433	Szőcsénypuszta	14	2008
+fehér akác	382	Somogytarnóca	14	2011
+vadgesztenye	440	Gic	18	2010
+lucfenyő	350	Sopron	7	2009
+kocsányos tölgy	663	Harkakötöny	1	2003
+mezei szil	441	Csákvár	6	2004
+kocsányos tölgy	563	Magyarlukafa	2	2009
+kocsányos tölgy	561	Gemenc	1	2010
+gyertyán	413	Vöröstó	18	2009
+kocsánytalan tölgy	587	Bögöte	17	2004
+kislevelű hárs	547	Zsennye	17	2003
+szelídgesztenye	613	Nemesdéd	14	2003
+kocsányos tölgy	506	Teklafalu	2	2009
+közönséges bükk	414	Csurgónagymarton	14	2008
+kocsányos tölgy	500	Tapsony	14	2010
+közönséges bükk	545	Nagykorpád	14	2005
+kocsányos tölgy	543	Teklafalu	2	2005
+kocsányos tölgy	533	Pusztavacs	13	2004
+juharlevelű platán	662	Hőgyész	16	2004
+gyertyán	386	Lajosháza	14	2009
+közönséges bükk	468	Püspökszentlászló	2	2011
+fekete nyár	897	Szekszárd	16	2009
+lucfenyő	338	Sopron	7	2009
+közönséges bükk	543	Pénzesgyőr	18	2010
+kocsányos tölgy	543	Sárvár	17	2003
+közönséges bükk	430	Monostorapáti	18	2009
+kocsányos tölgy	500	Ikervár	17	2008
+közönséges bükk	413	Püspökszentlászló	2	2011
+vörösfenyő	335	Répáshuta	4	2007
+közönséges bükk	412	Bükkszentkereszt	4	2007
+kocsányos tölgy	508	Túristvándi	15	2009
+közönséges bükk	473	Hárskút	18	2004
+közönséges bükk	404	Pénzesgyőr	18	2009
+közönséges bükk	408	Borsodnádasd	4	2010
+krémfehér liliomfa	275	Bozsok	17	2008
+császárfa	417	Kaposvár	14	2008
+közönséges bükk	507	Gézaháza	18	2009
+hárs	456	Tardos	11	2004
+ostorfa	398	Adony	6	2009
+fekete nyár	666	Szigetvár	2	2009
+kocsányos tölgy	737	Bogdása	2	2003
+közönséges bükk	429	Monostorapáti	18	2009
+kocsányos tölgy	606	Iklódbördőce	19	2004
+kocsányos tölgy	577	Tornyiszentmiklós	19	2003
+japánakác	453	Tömörd	17	2007
+fekete fenyő	431	Lovászpatona	18	2010
+korai nyár	617	Hajdúhadház	8	2002
+közönséges bükk	535	Szulimán	2	2009
+közönséges bükk	426	Bükkszentkereszt	4	2007
+szelídgesztenye	633	Csipkerek	17	2007
+kocsányos tölgy	605	Somogytarnóca	14	2011
+mocsárciprus	390	Sülysáp	13	2010
+fűz	610	Örvényes	18	2009
+közönséges bükk	420	Csurgónagymarton	14	2008
+fekete nyár	711	Rum	17	2006
+kocsányos tölgy	510	Kisbér	11	2010
+mocsárciprus	361	Kőszeg	17	2008
+kocsányos tölgy	540	Komlósd	14	2011
+mezei juhar	372	Lajosháza	14	2009
+kocsányos tölgy	502	Szarvas	3	2009
+nagylevelű hárs	670	Börzsöny	12	2011
+fűz	776	Tardos	11	2010
+kocsányos tölgy	694	Bak	19	2003
+fehér akác	342	Somogytarnóca	14	2011
+közönséges bükk	497	Bükkszentkereszt	4	2007
+magyar kőris	592	Bolhó	14	2007
+kocsányos tölgy	595	Zsennye	17	2005
+kocsányos tölgy	541	Hegyhátszentmárton	17	2008
+zöld juhar	391	Jánkmajtis	15	2009
+fekete nyár	898	Miskolc	4	2004
+közönséges bükk	496	Ugod	18	2007
+gyertyán	342	Monostorapáti	18	2008
+fehér nyár	775	Lónya	15	2003
+fekete nyár	615	Szekszárd	16	2009
+közönséges bükk	405	Herend	18	2008
+közönséges bükk	442	Bükkszentkereszt	4	2007
+kocsányos tölgy	515	Muraszemenye	19	2011
+csertölgy	526	Káld	17	2010
+kislevelű hárs	508	Kercaszomor	17	2004
+kislevelű hárs	523	Kőszeg	17	2005
+közönséges bükk	402	Csipkéskút	4	2009
+hegyi juhar	642	Ikervár	17	2003
+juharlevelű platán	606	Zomba	16	2009
+közönséges bükk	474	Bükkszentkereszt	4	2007
+kocsányos tölgy	620	Sárvár	17	2003
+kocsányos tölgy	570	Bokod	11	2005
+kocsányos tölgy	561	Teklafalu	2	2005
+kocsányos tölgy	548	Kerkafalva	19	2004
+fekete nyár	690	Ásványráró	7	2010
+szelídgesztenye	756	Surd	19	2004
+közönséges bükk	439	Pénzesgyőr	18	2009
+közönséges bükk	404	Monostorapáti	18	2009
+kocsányos tölgy	507	Sellye	2	2009
+közönséges bükk	500	Monostorapáti	18	2008
+kocsányos tölgy	609	Almamellék	2	2003
+kocsányos tölgy	545	Tuzsér	15	2003
+egybibés galagonya	125	Darány	14	2011
+japánakác	406	Tápióság	13	2011
+közönséges bükk	465	Monostorapáti	18	2008
+közönséges bükk	535	Kárász	2	2010
+gyertyán	378	Monostorapáti	18	2008
+japánakác	457	Alcsútdoboz	6	2007
+kislevelű hárs	446	Martonvásár	6	2003
+kocsányos tölgy	569	Csokonyavisonta	14	2003
+szelídgesztenye	600	Bak	19	2002
+fehér akác	386	Somogytarnóca	14	2011
+mezei szil	432	Nagyváty	2	2010
+nagylevelű hárs	471	Nagykovácsi	13	2011
+kislevelű hárs	450	Budapest	13	2005
+hárs	445	Sárvár	17	2002
+juharlevelű platán	809	Szabadbattyán	6	2004
+közönséges bükk	445	Zselickisfalud	14	2006
+kocsányos tölgy	513	Zádor	2	2005
+kocsányos tölgy	588	Tiszadob	15	2003
+juharlevelű platán	686	Alcsútdoboz	6	2007
+közönséges bükk	449	Bükkszentkereszt	4	2007
+közönséges bükk	400	Herend	18	2008
+kocsányos tölgy	516	Vejti	2	2002
+kocsányos tölgy	500	Szarvas	3	2003
+szelídgesztenye	652	Velem	17	2004
+ostorfa	335	Alsóhídvégpuszta	16	2009
+fekete nyár	745	Budapest	13	2010
+japánakác	680	Vásárosnamény	15	2009
+kocsányos tölgy	615	Csokonyavisonta	14	2003
+kocsányos tölgy	610	Ziliz	4	2003
+közönséges bükk	401	Monostorapáti	18	2008
+fekete nyár	618	Budapest	13	2010
+kocsányos tölgy	507	Budafapuszta	19	2004
+magas kőris	521	Pápa	18	2004
+gyertyán	460	Vöröstó	18	2009
+tiszafa	437	Hencse	14	2006
+fehér nyár	740	Torony	17	2006
+fekete nyár	725	Gemenc	1	2009
+fekete nyár	687	Barcs	14	2005
+kocsányos tölgy	675	Tardos	11	2010
+húsos som	307	Császló	15	2009
+kocsányos tölgy	520	Sárvár	17	2003
+kocsányos tölgy	514	Sárvár	17	2003
+fekete bodza	122	Darány	14	2011
+közönséges bükk	430	Monostorapáti	18	2008
+kocsányos tölgy	501	Gersekarát	17	2008
+kocsányos tölgy	522	Lad	14	2005
+hárs	411	Kisbózsva	4	2008
+fekete nyár	774	Révfalu	2	2010
+ginkgo	415	Sellye	2	2009
+fűz	625	Lovasberény	6	2010
+fekete nyár	614	Csepreg	17	2007
+közönséges bükk	408	Pénzesgyőr	18	2009
+kocsányos tölgy	678	Barcs	14	2003
+fűz	840	Szabolcsbáka	15	2003
+fekete nyár	720	Gemenc	1	2010
+fehér nyár	1013	Süttő	11	2006
+kocsányos tölgy	501	Potony	14	2005
+lucfenyő	396	Sopron	7	2009
+közönséges bükk	460	Acsád	17	2006
+fekete nyár	1000	Barcs	14	2005
+kocsányos tölgy	576	Gerla	3	2004
+kocsányos tölgy	726	Zsennye	17	2005
+kocsányos tölgy	503	Homokszentgyörgy	14	2005
+szelídgesztenye	656	Csepreg	17	2007
+kocsányos tölgy	515	Mikepércs	8	2009
+kocsányos tölgy	518	Lad	14	2006
+fekete nyár	667	Szekszárd	16	2010
+közönséges bükk	406	Magyarlukafa	2	2009
+közönséges bükk	551	Pénzesgyőr	18	2009
+kocsányos tölgy	581	Sárvár	17	2003
+szelídgesztenye	520	Surd	19	2008
+juharlevelű platán	628	Füzérradvány	4	2004
+kocsányos tölgy	531	Ikervár	17	2008
+gyertyán	386	Felsőtárkány	9	2005
+japánakác	400	Szőcsénypuszta	14	2010
+japánakác	478	Dég	6	2004
+közönséges bükk	518	Gyűrűfű	2	2009
+közönséges bükk	414	Telkibánya	4	2009
+kocsányos tölgy	505	Orosztony	19	2003
+magas kőris	524	Devecser	18	2004
+közönséges bükk	401	Hárskút	18	2010
+fekete nyár	694	Gemenc	1	2004
+juharlevelű platán	626	Pápa	18	2007
+vadcseresznye	333	Bak	19	2010
+japánakác	559	Mezőcsokonya	14	2008
+juharlevelű platán	604	Budapest	13	2010
+csertölgy	584	Lajosháza	14	2009
+közönséges bükk	434	Hárskút	18	2004
+közönséges bükk	415	Pénzesgyőr	18	2009
+tulipánfa	480	Somogytarnóca	14	2010
+ezüst juhar	440	Pócsmegyer	13	2011
+fekete nyár	611	Gemenc	16	2010
+juharlevelű platán	660	Pápa	18	2007
+enyves éger	650	Szilvásvárad	9	2004
+fehér fűz	640	Gemenc	16	2011
+nagylevelű hárs	409	Barcs	14	2002
+kocsányos tölgy	567	Darány	14	2011
+juharlevelű platán	745	Tunyogmatolcs	15	2009
+kocsányos tölgy	588	Túristvándi	15	2009
+kocsányos tölgy	534	Komlósd	14	2011
+fehér fűz	666	Káloz	6	2010
+közönséges bükk	499	Vajdácska	4	2007
+fekete nyár	651	Gemenc	16	2010
+ezüst juhar	381	Óbánya	2	2010
+közönséges bükk	409	Vásárosbéc	2	2009
+kocsányos tölgy	530	Füzérradvány	4	2004
+kocsányos tölgy	580	Csákánydoroszló	17	2004
+kocsányos tölgy	500	Encs	4	2009
+közönséges bükk	423	Zsennye	17	2003
+kocsányos tölgy	579	Tornyiszentmiklós	19	2003
+szürke nyár	888	Vásárosnamény	15	2009
+közönséges bükk	420	Bánkút	4	2009
+hárs	436	Tardos	11	2004
+hárs	557	Hőgyész	16	2003
+kocsányos tölgy	610	Gyermely	11	2004
+fűz	694	Gemenc	1	2010
+kocsányos tölgy	510	Túristvándi	15	2009
+közönséges bükk	477	Sikonda	2	2008
+közönséges bükk	400	Hárskút	18	2004
+szelídgesztenye	657	Surd	19	2008
+fekete nyár	608	Budapest	13	2010
+kocsányos tölgy	506	Tardos	11	2010
+korai juhar	382	Somogytarnóca	14	2010
+közönséges bükk	470	Pénzesgyőr	18	2009
+kocsányos tölgy	554	Tornaszentjakab	4	2008
+juharlevelű platán	630	Szabadkígyós	3	2010
+hegyi juhar	382	Szilvásvárad	4	2008
+közönséges bükk	545	Monostorapáti	18	2008
+kocsányos tölgy	615	Rátót	17	2003
+kocsányos tölgy	712	Barcs	14	2005
+közönséges bükk	415	Püspökszentlászló	2	2011
+közönséges bükk	436	Püspökszentlászló	2	2011
+kocsányos tölgy	540	Buják	12	2008
+nagylevelű hárs	560	Mór	6	2007
+vadkörte	318	Kaposvár	14	2008
+fekete fenyő	312	Kéked	4	2010
+kocsányos tölgy	566	Tiszadob	15	2003
+fekete nyár	955	Révfalu	2	2005
+szürke nyár	709	Helesfa	2	2011
+gyertyán	346	Zádor	2	2005
+közönséges bükk	426	Borsodnádasd	4	2010
+közönséges bükk	449	Szőcsénypuszta	14	2008
+hárs	406	Olaszfalu	18	2010
+fekete nyár	712	Tárnok	13	2009
+kocsányos tölgy	565	Nyésta	4	2010
+kocsányos tölgy	607	Galgamácsa	13	2004
+gyertyán	346	Orosztony	19	2003
+vadkörte	375	Darány	14	2011
+kislevelű hárs	449	Monostorapáti	18	2009
+közönséges bükk	446	Balatonhenye	18	2003
+kocsányos tölgy	510	Túristvándi	15	2009
+közönséges bükk	530	Börzsöny	12	2011
+fehér nyár	623	Barcs	14	2010
+szelídgesztenye	508	Csipkerek	17	2002
+kocsányos tölgy	521	Diósviszló	2	2010
+fehér nyár	731	Békéscsaba	3	2002
+erdei fenyő	347	Káld	17	2010
+fekete nyár	746	Maroslele	5	2000
+vadkörte	370	Tapsony	14	2010
+szelídgesztenye	516	Zengővárkony	2	2005
+fekete nyár	656	Gemenc	1	2010
+vadgesztenye	412	Egervár	19	2011
+mocsárciprus	350	Devecser	18	2010
+közönséges bükk	421	Püspökszentlászló	2	2011
+kocsányos tölgy	505	Körmend	17	2007
+fekete nyár	623	Gór	17	2007
+közönséges bükk	431	Pénzesgyőr	18	2009
+közönséges bükk	425	Vászoly	18	2000
+kocsányos tölgy	572	Sárvár	17	2003
+kocsányos tölgy	506	Békéscsaba	3	2003
+nagylevelű hárs	470	Gönc	4	2010
+kislevelű hárs	846	Szabolcsbáka	15	2003
+juharlevelű platán	600	Tiszakürt	10	2010
+juharlevelű platán	733	Hőgyész	16	2003
+gyertyán	311	Kaposvár	14	2008
+szelídgesztenye	722	Vorhota	19	2001
+kislevelű hárs	430	Mór	6	2008
+közönséges bükk	442	Püspökszentlászló	2	2011
+közönséges bükk	501	Bükkszentkereszt	4	2007
+közönséges bükk	426	Bánkút	4	2009
+közönséges bükk	501	Monostorapáti	18	2008
+kocsányos tölgy	540	Dénesfa	7	2003
+fekete nyár	877	Gemenc	1	2010
+kocsányos tölgy	626	Gemenc	16	2004
+ezüsthárs	640	Bogát	17	2001
+juharlevelű platán	640	Előszállás	6	2004
+kocsányos tölgy	500	Somogytarnóca	14	2011
+kocsányos tölgy	687	Lajosháza	14	2009
+kocsányos tölgy	585	Tatabánya	11	2008
+vadcseresznye	461	Pénzesgyőr	18	2010
+közönséges bükk	460	Pénzesgyőr	18	2009
+közönséges bükk	440	Csepreg	17	2007
+gyertyán	320	Komlósd	14	2011
+szelídgesztenye	534	Velem	17	2004
+közönséges jegenyefenyő	430	Fehérvárcsurgó	6	2007
+kocsányos tölgy	502	Szeged	5	2008
+kocsányos tölgy	533	Lad	14	2006
+kocsányos tölgy	540	Kerkafalva	19	2004
+hárs	431	Zalabaksa	19	2003
+fekete nyár	783	Barcs	14	2010
+kocsányos tölgy	524	Rátót	17	2003
+gyertyán	329	Somogyviszló	2	2009
+kocsányos tölgy	525	Somogyvár	14	2005
+kocsányos tölgy	691	Gemenc	16	2003
+közönséges bükk	406	Szőcsénypuszta	14	2008
+epernarancs	406	Balatonfüred	18	2009
+kocsányos tölgy	522	Orosipuszta	3	2004
+fehér nyár	637	Bagamér	8	2007
+kocsányos tölgy	597	Dénesfa	7	2007
+kocsányos tölgy	541	Káptalanfa	18	2008
+fekete nyár	638	Révfalu	2	2010
+közönséges bükk	414	Püspökszentlászló	2	2011
+fekete nyár	986	Gemenc	1	2010
+közönséges bükk	401	Püspökszentlászló	2	2011
+gyertyán	337	Püspökszentlászló	2	2011
+közönséges bükk	418	Pénzesgyőr	18	2006
+szelídgesztenye	633	Iharosberény	14	2007
+kislevelű hárs	1103	Szőkedencs	14	2003
+kocsányos tölgy	539	Oszkó	17	2002
+kocsányos tölgy	525	Tormafölde	19	2011
+juharlevelű platán	645	Eger	9	2004
+közönséges bükk	432	Borsodnádasd	4	2010
+közönséges bükk	455	Vásárosbéc	2	2009
+csertölgy	518	Nagykovácsi	13	2011
+gyertyán	395	Szászvár	2	2011
+kocsányos tölgy	524	Gemenc	16	2003
+kocsányos tölgy	578	Sárvár	17	2003
+kocsányos tölgy	616	Bélmegyer	3	2005
+juharlevelű platán	991	Szabadbattyán	6	2002
+hárs	441	Tuzsér	15	2003
+közönséges bükk	445	Monostorapáti	18	2009
+himalájai cédrus	537	Iharosberény	14	2007
+kocsánytalan tölgy	512	Mátraháza	9	2008
+tulipánfa	423	Szombathely	17	2008
+kocsányos tölgy	588	Nagykőrös	13	2004
+fekete fenyő	481	Peresznye	17	2010
+fűz	659	Ásványráró	7	2010
+fekete nyár	640	Gemenc	16	2011
+vénic szil	480	Vasszécseny	17	2006
+hárs	463	Kaposmérő	14	2006
+fűz	676	Lovasberény	6	2010
+tulipánfa	552	Iharosberény	14	2007
+kocsányos tölgy	519	Földeák	5	2008
+kocsányos tölgy	503	Csokonyavisonta	14	2003
+közönséges bükk	507	Gézaháza	18	2008
+barkóca berkenye	317	Lajosháza	14	2009
+közönséges bükk	402	Monostorapáti	18	2008
+japánakác	611	Budapest	13	2009
+kocsányos tölgy	651	Péterhida	14	2003
+vadgesztenye	467	Seregélyes	6	2007
+közönséges bükk	476	Monostorapáti	18	2008
+fekete nyár	700	Révfalu	2	2010
+közönséges bükk	535	Monostorapáti	18	2008
+kocsányos tölgy	510	Iklódbördőce	17	2004
+kocsánytalan tölgy	528	Sitke	17	2008
+ezüst juhar	403	Nagykovácsi	13	2011
+fűz	674	Gemenc	1	2010
+közönséges bükk	467	Bánkút	4	2009
+kocsányos tölgy	510	Sárvár	17	2003
+vénic szil	409	Gemenc	16	2011
+fehér akác	417	Budapest	13	2008
+nagylevelű hárs	515	Sály	4	2004
+gyertyán	324	Barcs	14	2003
+kocsányos tölgy	572	Homokszentgyörgy	14	2005

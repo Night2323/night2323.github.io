@@ -1,0 +1,15 @@
+.bagu{
+    background-color: darkgrey;
+    border: 1px black solid;
+    border-radius: 10px;
+    width: 30%;
+    height: 500px;
+    margin: 35%;
+    margin-right: 35%;
+    margin-top: 10%;
+    padding: 10% 10% 10% 10%;
+}
+
+input, button{
+    margin-bottom: 10px;
+}

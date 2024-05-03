@@ -1,0 +1,22 @@
+Példa LAN (200 IP-cím igény)
+	hálózat azonosító: 172.16.0.0/24
+	alhálózati maszk: 255.255.255.0
+	használható címtartomány: 172.16.0.1 - 172.16.0.254
+	szórási cím: 172.16.0.255
+
+
+1. IRODA (58 IP-cím igény)
+	hálózat azonosító: 192.168.88.0/26
+	alhálózati maszk: 255.255.255.192
+	használható címtartomány: 192.168.88.1 - 192.168.88.62 
+	szórási cím: 192.168.88.63
+2. NYOMTATO (3 IP-cím igény)
+	hálózat azonosító:  192.168.88.65/29
+	alhálózati maszk: 255.255.255.248
+	használható címtartomány: 192.168.88.65 - 192.168.88.70
+	szórási cím: 192.168.88.71
+3. UGYFEL (2 IP-cím igény)
+	hálózat azonosító: 192.168.88.72/30
+	alhálózati maszk: 255.255.255.252
+	használható címtartomány: 192.168.88.73 - 192.168.88.74
+	szórási cím: 192.168.88.75

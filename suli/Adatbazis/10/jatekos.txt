@@ -1,0 +1,15 @@
+nev	mez	magassag	poszt
+Hosszú Pál	3	195	center
+Biztos Géza	7	195	center
+Magas Viktor	10	190	bedobó
+Szikár Alex	11	193	bedobó
+Vastag Ábel	15	185	bedobó
+Arany István	17	181	bedobó
+Víg Péter	18	185	irányító
+Vékony András	21	193	bedobó
+Fonó Péter	23	175	irányító
+Gyors Ádám	30	185	bedobó
+Messze Balázs	33	183	bedobó
+Ugró Gergely	35	183	bedobó
+Erõs György	40	184	irányító
+Ravasz Zoltán	50	195	center

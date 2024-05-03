@@ -1,0 +1,73 @@
+id	kategoria	magyar	angol	ev	ar
+1	Marple	A láthatatlan kéz	The Moving Finger	1942	3990
+2	Poirot	Mrs. McGinty halott	Mrs. McGinty's Dead	1952	4999
+3		És eljő a halál...	Death Comes as the End	1944	4999
+4	Marple	Egy marék rozs	A Pocket Full of Rye	1953	5999
+5	Poirot	Zátonyok közt	Taken at the Flood	1948	3990
+6	Poirot	Nyaraló gyilkosok	Evil Under the Sun	1941	3990
+7	Poirot	A fogorvos széke	One, Two, Buckle My Shoe	1940	3990
+8	Poirot	Hétvégi gyilkosság	The Hollow	1946	4999
+9		A titkos ellenfél	The Secret Adversary	1922	5999
+10	Marple	Paddington 16.50	4.50 from Paddington	1957	5999
+11	Poirot	Temetni veszélyes	After the Funeral	1953	5999
+12		Az élet súlya	The Burden	1956	4999
+13	Poirot	Lord Edgware meghal	Lord Edgware Dies	1933	3990
+14		Gyöngyöző cián	Sparkling Cyanide	1945	5999
+15		Miért nem szóltak Evansnak?	Why Didn't They Ask Evans?	1934	5999
+16		Úti célja ismeretlen	Destination Unknown	1954	5999
+17		Királyok és kalandorok	The Secret of Chimneys	1925	4999
+18	Poirot	Ház a sziklán	Peril at End House	1932	4999
+19	Poirot	Öt kismalac	Five Little Pigs	1943	3990
+20	Poirot	Poirot karácsonya	Hercule Poirot's Christmas	1938	5999
+21		Tíz kicsi néger	Ten Little Niggers	1939	4999
+22		Bagdadba jöttek	They Came to Baghdad	1951	5999
+23	Marple	Nem csalás, nem ámítás	They Do It with Mirrors	1952	3990
+24	Poirot	Gyilkosság az Orient expresszen	Murder on the Orient Express	1934	3990
+25	Marple	A kristálytükör meghasadt	The Mirror Crack’d from Side to Side	1962	3990
+26		A rózsa és a tiszafa	The Rose and the Yew Tree	1948	4999
+27	Poirot	Gyilkosság Mezopotámiában	Murder in Mesopotamia	1936	5999
+28		Az ijedt szemű lány	Murder on the Links	1923	3990
+29	Poirot	A titokzatos Kék Vonat	The Mystery of the Blue Train	1928	3990
+30		A barna ruhás férfi	The Man in the Brown Suit	1924	4999
+31	Poirot	Macska a galambok között	Cat Among the Pigeons	1959	3990
+32		Végtelen éjszaka	Endless Night	1967	4999
+33	Poirot	Függöny: Poirot utolsó esete	Curtain: Poirot's Last Case	1975	5999
+34		Az óriás kenyere	Giant's Bread	1930	3990
+35		A frankfurti utas	Passenger to Frankfurt	1970	5999
+36	Marple	Holttest a könyvtárszobában	The Body in the Library	1942	4999
+37	Poirot	Az órák	The Clocks	1963	5999
+38	Poirot	A kutya se látta	Dumb Witness	1937	3990
+39		A sors kapuja	Postern of Fate	1973	5999
+40		A gyűlölet őrültje	Murder Is Easy	1939	4999
+41	Marple	Szunnyadó gyilkosság	Sleeping Murder	1976	5999
+42	Poirot	Tragédia három felvonásban	Three Acts Tragedy	1935	5999
+43	Poirot	Halál a felhők fölött	Death in the Clouds	1935	3990
+44	Marple	Rejtély az Antillákon	A Caribbean Mystery	1964	3990
+45	Marple	Nemezis	Nemesis	1971	4999
+46	Poirot	Gloriett a hullának	Dead Man's Folly	1956	4999
+47	Poirot	Nyílt kártyákkal	Cards on the Table	1936	3990
+48		A Hét Számlap rejtélye	The Seven Dials Mystery	1929	5999
+49	Poirot	Az Ackroyd-gyilkosság	The Murder of Roger Ackroyd	1926	3990
+50	Poirot	Ellopott gyilkosság	Hallowe'en Party	1969	4999
+51	Poirot	A titokzatos Négyes	The Big Four	1927	3990
+52	Marple	Gyilkosság meghirdetve	A Murder is Announced	1950	5999
+53	Poirot	A titokzatos stylesi eset	The Mysterious Affair at Styles	1920	4999
+54	Poirot	Találkozás a halállal	Appointment with Death	1938	3990
+55	Poirot	Az elefántok nem felejtenek	Elephants Can Remember	1972	5999
+56	Marple	Gyilkosság a paplakban	The Murder at the Vicarage	1930	5999
+57		Távol telt tőled tavaszom	Absent in the Spring	1944	3990
+58		Bűbájos gyilkosok	The Pale Horse	1961	5999
+59		Befejezetlen portré	Unfinished Portrait	1934	4999
+60	Poirot	Cipruskoporsó	Sad Cypress	1940	3990
+61		A Sittaford-rejtély	The Sittaford Mystery	1931	5999
+62		Ferde ház	Crooked House	1949	3990
+63	Poirot	Harmadik lány	Third Girl	1966	3990
+64	Poirot	Az ABC-gyilkosságok	The ABC Murders	1936	5999
+65	Poirot	Halál a Níluson	Death on the Nile	1938	4999
+66		Balhüvelykem bizsereg...	By the Pricking of My Thumbs	1968	3990
+67	Poirot	Gyilkosság a diákszállóban	Hickory, Dickory, Dock	1955	4999
+68		Az alibi	Ordeal by Innocence	1958	4999
+69		A lányom mindig a lányom	A Daughter's a Daughter	1952	3990
+70		N vagy M	N or M?	1941	3990
+71		Éjféltájt	Towards Zero	1944	5999
+72	Marple	A Bertram Szálló	At Bertram's Hotel	1965	5999
