@@ -1,0 +1,24 @@
+operációs rendszer bootolása                                -   boot system [útvonal(Ex.:flash:/c2960-lanbasek9-mz.150-2.SE/c2960-lanbasek9-mz.150-2.SE.bin)]
+priv. módba lépés                                           -   enable
+config módba lépés                                          -   configure terminal
+interface megnyitása                                        -   interface [interface-id]
+interfacek megynitása                                       -   interface range [kezdő interface-id-vég interface-id]
+duplex mód                                                  -   duplex [full/half/auto]
+sebesség                                                    -   speed [10/100/1000]
+kilépés                                                     -   end
+config másolás                                              -   copy [honnan] [hova]
+mdix mód                                                    -   mdix auto
+interface konfig megnézése                                  -   show interfaces [interface-id]
+startup-config megnézése                                    -   show startup-config
+running-config megnézése                                    -   show running-config
+flash fájlrendszerrel kapcsolatos információk megnézése     -   show flash
+a rendszer állapotának megnézése                            -   show version
+parancselőzmények megnézése                                 -   show history
+interface IP beállításának megnézése                        -   show ip interface [interface-id]
+interface IPv6 beállításának megnézése                      -   show ipv6 interface [interface-id]
+interface VLAN beállításának megnézése                      -   show vlan interface [interface-id]
+MAC címtábla megnézése                                      -   show mac-address-table VAGY show mac address-table
+SSH támogatás megtekintése                                  -   show ip SSH
+domain név megadása                                         -   ip domain-name [domain]
+crypto kulcs generálása                                     -   crypto key gen rsa UTÁNA [512/1024/2048]
+felhasználó létrehozása                                     -   username [név] privilege [0-15] password/secret [jelszó]
