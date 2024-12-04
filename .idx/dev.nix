@@ -27,6 +27,8 @@
       "BeardedBear.beardedtheme"
       "esbenp.prettier-vscode"
       "html-validate.vscode-html-validate"
+      "adamraichu.docx-viewer"
+      "alfredbirk.instant-docs"
     ];
 
     # Enable previews
