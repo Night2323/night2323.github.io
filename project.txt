@@ -1,0 +1,147 @@
+--|OFF-R1|--
+
+ip dhcp pool vlan10
+network 192.168.0.0 255.255.255.192
+default-router 192.168.0.1
+dns-server 192.168.0.245
+
+ip dhcp pool vlan20
+network 192.168.0.64 255.255.255.192
+default-router 192.168.0.65
+dns-server 192.168.0.245
+
+ip dhcp pool vlan30
+network 192.168.0.128 255.255.255.192
+default-router 192.168.0.129
+dns-server 192.168.0.245
+
+ip dhcp pool vlan69
+network 192.168.0.192 255.255.255.192
+default-router 192.168.0.193
+dns-server 192.168.0.245
+
+--|OFF-SW1|--
+
+hostname OFF-SW1
+vlan 10
+na 10
+vlan 20
+na 20
+vlan 30
+na 30
+vlan 69
+na 69
+interface port-channel1
+description Port-Channel 1
+interface range f0/3-6
+channel-group 1 mode active
+interface port-channel2
+description Port-Channel 2
+interface range f0/7-9
+channel-group 2 mode active
+interface g0/1
+switchport mode trunk
+in vl 69
+ip ad 192.168.0.240 255.255.255.192
+ip default-gateway 192.168.0.193
+
+--|OFF-SW2|--
+
+hostname OFF-SW2
+vlan 10
+na 10
+vlan 20
+na 20
+vlan 30
+na 30
+vlan 69
+na 69
+interface port-channel1
+description Port-Channel 1
+interface range f0/3-6
+channel-group 1 mode active
+interface port-channel3
+description Port-Channel 3
+interface range f0/1-3
+channel-group 3 mode active
+interface range f0/11-14
+switchport mode access
+switchport access vlan 10
+interface range f0/7-10
+switchport mode access
+switchport access vlan 30
+interface range f0/15-17
+channel-group 4 mode active
+switchport mode trunk
+switchport trunk allowed vlan 10,20,30,69
+in vl 69
+ip ad 192.168.0.241 255.255.255.192
+ip default-gateway 192.168.0.193
+
+--|OFF-SW3|--
+
+hostname OFF-SW3
+vlan 10
+na 10
+vlan 20
+na 20
+vlan 30
+na 30
+vlan 69
+na 69
+interface port-channel2
+description Port-Channel 2
+interface range f0/7-9
+channel-group 2 mode active
+interface port-channel3
+description Port-Channel 3
+interface range f0/1-3
+channel-group 3 mode active
+interface range f0/4-6
+switchport mode access
+switchport access vlan 20
+in vl 69
+ip ad 192.168.0.242 255.255.255.192
+ip default-gateway 192.168.0.193
+
+in po1
+sw mo trunk
+sw tr na vl 1
+sw tr al vl 10,20,30,69
+in po2
+sw mo trunk
+sw tr na vl 1
+sw tr al vl 10,20,30,69
+in po3
+sw mo trunk
+sw tr na vl 1
+sw tr al vl 10,20,30,69
+in po4
+sw mo tr
+sw tr na vl 1
+sw tr al vl 10,20,30,69
+
+
+
+--|OFF-SRW-SW|--
+
+hostname OFF-SRW-SW
+vlan 10
+na 10
+vlan 20
+na 20
+vlan 30
+na 30
+vlan 69
+na 69
+interface range f0/1-3
+channel-group 4 mode active
+switchport mode trunk
+switchport trunk allowed vlan 10,20,30,69
+interface range f0/4-5
+sw mo acces
+sw ac vl 69
+in vl 69
+ip ad 192.168.0.243 255.255.255.192
+ip default-gateway 192.168.0.193
+do w
