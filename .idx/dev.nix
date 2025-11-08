@@ -29,6 +29,7 @@
       "html-validate.vscode-html-validate"
       "adamraichu.docx-viewer"
       "alfredbirk.instant-docs"
+      "mathematic.vscode-pdf"
     ];
 
     # Enable previews
